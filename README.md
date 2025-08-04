@@ -30,3 +30,10 @@ A beautifully crafted analog clock built purely with **HTML**, **CSS**, and **Ja
 
 ## 📂 Project Structure
 
+analog-clock/
+│
+├── index.html
+├── style.css
+├── script.js
+├── clock.png  
+└── README.md
