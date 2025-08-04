@@ -30,7 +30,7 @@ A beautifully crafted analog clock built purely with **HTML**, **CSS**, and **Ja
 
 ## 📂 Project Structure
 
-analog-clock/
+analog-clock/ <br/>
 │ <br/>
 ├── index.html <br/>
 ├── style.css <br/>
