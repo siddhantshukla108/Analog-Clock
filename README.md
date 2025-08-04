@@ -1,8 +1,7 @@
 # 🕰️ Analog Clock Web App
 
-## 🌤️ Weather App Preview
 
-![Weather App Preview](./poster.png)
+![Weather App Preview](./Analog Clock.png)
 
 A beautifully crafted analog clock built purely with **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to create a functional, real-time analog clock using only frontend technologies.
 
