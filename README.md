@@ -26,10 +26,7 @@ A beautifully crafted analog clock built purely with **HTML**, **CSS**, and **Ja
 
 ## 🚀 Live Demo
 
-[👉 Click here to view the live demo](https://your-username.github.io/analog-clock/)  
-*(Replace the link after publishing with GitHub Pages)*
-
----
+[👉 Click here to view the live demo](https://siddhantshukla108.github.io/Analog-Clock/)  
 
 ## 📂 Project Structure
 
