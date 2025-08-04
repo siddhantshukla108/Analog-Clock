@@ -32,8 +32,8 @@ A beautifully crafted analog clock built purely with **HTML**, **CSS**, and **Ja
 
 analog-clock/
 │
-├── index.html
-├── style.css
-├── script.js
-├── clock.png  
+├── index.html <br/>
+├── style.css <br/>
+├── script.js <br/>
+├── clock.png <br/>
 └── README.md
